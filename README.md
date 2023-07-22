@@ -1,3 +1,16 @@
+#NEWS Monkey 
+
+<img width="700" alt="Pattern-1" src="Screenshot/Screenshot 2023-07-22 at 8.50.59 PM.png">
+
+<img width="700" alt="Pattern-1" src="Screenshot/Screenshot 2023-07-22 at 8.51.11 PM.png">
+
+<img width="700" alt="Pattern-1" src="Screenshot/Screenshot 2023-07-22 at 8.52.02 PM.png">
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
